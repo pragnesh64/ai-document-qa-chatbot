@@ -4,7 +4,7 @@ A modern, full-stack AI chatbot application that provides both **general convers
 
 ## 📸 Demo Screenshot
 
-![AI Chatbot Demo](./image.png)
+![AI Chatbot Demo](./docs/image.png)
 *Main chat interface showing both general AI chat and document Q&A modes*
 
 ## ✨ Features
@@ -437,16 +437,6 @@ copies or substantial portions of the Software.
 
 ## 📞 Support & Contact
 
-- **GitHub Issues:** [Create an issue](https://github.com/your-username/ai-chatbot/issues)
+- **GitHub Issues:** [Create an issue](https://github.com/pragnesh64/ai-document-qa-chatbot/issues)
 - **Email:** your-email@example.com
-- **Documentation:** [Project Wiki](https://github.com/your-username/ai-chatbot/wiki)
-
----
-
-<p align="center">
-  <strong>🚀 Made with ❤️ for AI-powered conversations and document intelligence</strong>
-</p>
-
-<p align="center">
-  <sub>⭐ Star this repository if you found it helpful!</sub>
-</p> 
+- **Documentation:** [Project Wiki](https://github.com/pragnesh64/ai-document-qa-chatbot/wiki)
