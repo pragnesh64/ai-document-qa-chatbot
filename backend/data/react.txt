@@ -1,0 +1,11 @@
+React is a JavaScript library for building user interfaces. It was developed by Facebook and is now maintained by Meta and the community.
+
+Key features of React:
+- Component-based architecture
+- Virtual DOM for better performance
+- JSX syntax for writing HTML-like code in JavaScript
+- Unidirectional data flow
+- Hooks for state management and side effects
+- Large ecosystem and community support
+
+React is widely used for building single-page applications (SPAs) and mobile applications using React Native. It allows developers to create reusable UI components that manage their own state, making it easier to build complex user interfaces. 

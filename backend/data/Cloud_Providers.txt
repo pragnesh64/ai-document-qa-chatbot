@@ -1,0 +1,6 @@
+Top 5 Cloud Providers in 2025:
+1. Amazon Web Services (AWS)
+2. Microsoft Azure
+3. Google Cloud Platform (GCP)
+4. IBM Cloud
+5. Oracle Cloud

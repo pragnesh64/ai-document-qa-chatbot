@@ -1,0 +1,6 @@
+Top 5 Programming Languages in 2025:
+1. Python - Great for AI, data science, and web development.
+2. JavaScript - Essential for web development (frontend & backend).
+3. Java - Widely used in enterprise applications and Android development.
+4. TypeScript - A superset of JavaScript with static typing.
+5. Go - Efficient and scalable, used for cloud services and backend systems.

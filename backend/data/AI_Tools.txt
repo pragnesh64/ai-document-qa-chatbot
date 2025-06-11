@@ -1,0 +1,6 @@
+Top 5 AI Tools in 2025:
+1. ChatGPT - Conversational AI and content creation.
+2. Midjourney - Text-to-image generation.
+3. GitHub Copilot - Code generation and assistance.
+4. Claude AI - AI assistant by Anthropic.
+5. Gemini - Google’s multi-modal AI tool.
